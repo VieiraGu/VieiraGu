@@ -11,4 +11,4 @@
 VieiraGu/VieiraGu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Tiping GIF] (https://i.makeagif.com/media/3-02-2016/RjkZj2.gif)
+![Tiping GIF](https://i.makeagif.com/media/3-02-2016/RjkZj2.gif)
